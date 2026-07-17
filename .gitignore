@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+uploads/temp_email.txt
+
+.env
+
+.vscode/
